@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo20170520.business.impl.FacturaServiceImplSpec" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-23T03:30:52" hostname="Raul-Mac-2.local" time="0.785">
+  <properties/>
+  <testcase name="deberia guardar una factura con el camino feliz" classname="com.example.demo20170520.business.impl.FacturaServiceImplSpec" time="0.765"/>
+  <testcase name="deberia fallar al enviar una factura en NULL" classname="com.example.demo20170520.business.impl.FacturaServiceImplSpec" time="0.006"/>
+  <testcase name="deberia fallar al intentar guardar una factura con los montos incorrectos" classname="com.example.demo20170520.business.impl.FacturaServiceImplSpec" time="0.014"/>
+  <system-out><![CDATA[<com.example.demo20170520.model.FacturaCommand@4c3bc8e id=null fecha=Mon May 22 22:30:53 PET 2017 ruc=12345678901 razonSocial=Algo montoTotal=30 subTotal=20 igv=0 concepto=Un producto>
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

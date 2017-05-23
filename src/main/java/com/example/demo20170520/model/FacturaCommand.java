@@ -3,6 +3,7 @@ package com.example.demo20170520.model;
 import lombok.Getter;
 import lombok.Setter;
 import org.hibernate.validator.constraints.NotBlank;
+import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
@@ -20,6 +21,7 @@ public class FacturaCommand {
   private Long id;
   @NotNull
   @Past
+  @DateTimeFormat(iso = DateTimeFormat.ISO.DATE)
   private Date fecha;
   @NotBlank
   @Size(min = 11, max = 11)
