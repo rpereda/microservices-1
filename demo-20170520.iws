@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3071f4d6-5c59-46f0-87c8-f715b17561d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gradlew" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/demo-20170520_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/demo-20170520_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_gitignore" afterPath="$PROJECT_DIR$/_gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo-20170520.iws" afterPath="$PROJECT_DIR$/demo-20170520.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/Demo20170520Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/Demo20170520Application.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/business/FacturaService.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/business/FacturaService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/business/impl/FacturaServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/business/impl/FacturaServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/model/FacturaCommand.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/model/FacturaCommand.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/web/FacturaController.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo20170520/web/FacturaController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/groovy/com/example/demo20170520/business/impl/FacturaServiceImplSpec.groovy" afterPath="$PROJECT_DIR$/src/test/groovy/com/example/demo20170520/business/impl/FacturaServiceImplSpec.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/example/demo20170520/Demo20170520ApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo20170520/Demo20170520ApplicationTests.java" />
-    </list>
+    <list default="true" id="3071f4d6-5c59-46f0-87c8-f715b17561d7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1339,7 +1317,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495503199904</updated>
-      <workItem from="1495503201107" duration="2361000" />
+      <workItem from="1495503201107" duration="2940000" />
     </task>
     <servers />
   </component>
@@ -1349,7 +1327,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2361000" />
+    <option name="totallyTimeSpent" value="2940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
